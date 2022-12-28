@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java**
+- 💬 Maily experienced in **Java**
 
 - 📫 How to reach me **rendanyamande44@gmail.com**
 
